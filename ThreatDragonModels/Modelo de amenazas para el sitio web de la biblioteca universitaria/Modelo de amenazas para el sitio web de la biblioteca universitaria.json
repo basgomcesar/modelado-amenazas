@@ -1,0 +1,20 @@
+{
+  "version": "2.4.0-RC1",
+  "summary": {
+    "title": "Modelo de amenazas para el sitio web de la biblioteca universitaria",
+    "owner": "Cesar ",
+    "description": "Este modelo analiza las posibles amenazas de seguridad en el sitio web de la biblioteca universitaria, considerando el flujo de datos de inicio de sesión y la interacción con la base de datos.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Cesar Basilio Gomez"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "CesarBG",
+    "threatTop": 0
+  }
+}
