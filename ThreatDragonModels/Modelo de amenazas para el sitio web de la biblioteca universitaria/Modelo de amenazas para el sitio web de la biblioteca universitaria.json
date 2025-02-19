@@ -12,8 +12,19 @@
         "name": "Cesar Basilio Gomez"
       }
     ],
-    "diagrams": [],
-    "diagramTop": 1,
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "Flujo de inicio de sesión",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0-RC1",
+        "cells": [],
+        "description": "Muestra cómo los datos fluyen lógicamente a través de la aplicación, de un extremo a otro"
+      }
+    ],
+    "diagramTop": 3,
     "reviewer": "CesarBG",
     "threatTop": 0
   }
